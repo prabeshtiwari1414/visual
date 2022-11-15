@@ -1,0 +1,15 @@
+/media/parbesh/Local Disk/visual/forloop/bin/Debug/net6.0/forloop
+/media/parbesh/Local Disk/visual/forloop/bin/Debug/net6.0/forloop.deps.json
+/media/parbesh/Local Disk/visual/forloop/bin/Debug/net6.0/forloop.runtimeconfig.json
+/media/parbesh/Local Disk/visual/forloop/bin/Debug/net6.0/forloop.dll
+/media/parbesh/Local Disk/visual/forloop/bin/Debug/net6.0/forloop.pdb
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/forloop.csproj.AssemblyReference.cache
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/forloop.GeneratedMSBuildEditorConfig.editorconfig
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/forloop.AssemblyInfoInputs.cache
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/forloop.AssemblyInfo.cs
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/forloop.csproj.CoreCompileInputs.cache
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/forloop.dll
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/refint/forloop.dll
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/forloop.pdb
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/forloop.genruntimeconfig.cache
+/media/parbesh/Local Disk/visual/forloop/obj/Debug/net6.0/ref/forloop.dll
