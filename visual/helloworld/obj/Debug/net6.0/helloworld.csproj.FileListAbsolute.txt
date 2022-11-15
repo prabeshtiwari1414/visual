@@ -1,0 +1,15 @@
+/media/parbesh/Local Disk/visual/helloworld/bin/Debug/net6.0/helloworld
+/media/parbesh/Local Disk/visual/helloworld/bin/Debug/net6.0/helloworld.deps.json
+/media/parbesh/Local Disk/visual/helloworld/bin/Debug/net6.0/helloworld.runtimeconfig.json
+/media/parbesh/Local Disk/visual/helloworld/bin/Debug/net6.0/helloworld.dll
+/media/parbesh/Local Disk/visual/helloworld/bin/Debug/net6.0/helloworld.pdb
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/helloworld.csproj.AssemblyReference.cache
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/helloworld.AssemblyInfoInputs.cache
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/helloworld.AssemblyInfo.cs
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/helloworld.csproj.CoreCompileInputs.cache
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/helloworld.dll
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/refint/helloworld.dll
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/helloworld.pdb
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/helloworld.genruntimeconfig.cache
+/media/parbesh/Local Disk/visual/helloworld/obj/Debug/net6.0/ref/helloworld.dll
