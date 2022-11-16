@@ -1,0 +1,15 @@
+/home/parbesh/visual p/visual-1/palindrome/bin/Debug/net6.0/palindrome
+/home/parbesh/visual p/visual-1/palindrome/bin/Debug/net6.0/palindrome.deps.json
+/home/parbesh/visual p/visual-1/palindrome/bin/Debug/net6.0/palindrome.runtimeconfig.json
+/home/parbesh/visual p/visual-1/palindrome/bin/Debug/net6.0/palindrome.dll
+/home/parbesh/visual p/visual-1/palindrome/bin/Debug/net6.0/palindrome.pdb
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.csproj.AssemblyReference.cache
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.AssemblyInfoInputs.cache
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.AssemblyInfo.cs
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.csproj.CoreCompileInputs.cache
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.dll
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/refint/palindrome.dll
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.pdb
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.genruntimeconfig.cache
+/home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/ref/palindrome.dll
