@@ -1,0 +1,15 @@
+/home/parbesh/visual p/visual-1/flag/bin/Debug/net6.0/flag
+/home/parbesh/visual p/visual-1/flag/bin/Debug/net6.0/flag.deps.json
+/home/parbesh/visual p/visual-1/flag/bin/Debug/net6.0/flag.runtimeconfig.json
+/home/parbesh/visual p/visual-1/flag/bin/Debug/net6.0/flag.dll
+/home/parbesh/visual p/visual-1/flag/bin/Debug/net6.0/flag.pdb
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.csproj.AssemblyReference.cache
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.GeneratedMSBuildEditorConfig.editorconfig
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.AssemblyInfoInputs.cache
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.AssemblyInfo.cs
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.csproj.CoreCompileInputs.cache
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.dll
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/refint/flag.dll
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.pdb
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.genruntimeconfig.cache
+/home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/ref/flag.dll
