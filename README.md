@@ -31,12 +31,31 @@ Or for debian based devices like ubuntu run the following commands in the termin
 
 
 
-                  wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb 
+      wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb 
 
-                  sudo dpkg -i packages-microsoft-prod.deb 
+      sudo dpkg -i packages-microsoft-prod.deb 
 
-                  sudo apt update 
+      sudo apt update 
 
-                  sudo apt install apt-transport-https 
+      sudo apt install apt-transport-https 
 
-                  sudo apt install dotnet-sdk-7.0 
+      sudo apt install dotnet-sdk-7.0 
+      
+<h4>Project Creation</h4>
+
+After the installation of .NET core, we simply create a project in the specific directory using the terminal integrated with VS Code.
+      
+      dotnet new console -n helloworld
+      
+This creates a separate directory for the project with the name HelloWorld.
+
+      cd HelloWorld
+
+
+This helps us to enter the project directory.
+
+      dotnet run
+
+This builds the projects and compiles the files creating a /bin directory which contains a HelloWorld.dll file.
+
+Alternatively you can download this extension for building and running the projects without using the terminal from https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet
