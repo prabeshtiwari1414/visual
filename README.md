@@ -7,3 +7,12 @@
 <h4>Installation</h4>
 
 For Linux, Visual Studio is not available. So we will install Visual Studio Code either using the apt command from terminal or manually downloading the .deb file from the official website.
+
+
+
+
+
+
+      sudo apt install code
+
+}
