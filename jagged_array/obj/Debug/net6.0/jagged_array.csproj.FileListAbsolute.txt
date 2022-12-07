@@ -1,0 +1,15 @@
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/bin/Debug/net6.0/jagged_array
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/bin/Debug/net6.0/jagged_array.deps.json
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/bin/Debug/net6.0/jagged_array.runtimeconfig.json
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/bin/Debug/net6.0/jagged_array.dll
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/bin/Debug/net6.0/jagged_array.pdb
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.csproj.AssemblyReference.cache
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.GeneratedMSBuildEditorConfig.editorconfig
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.AssemblyInfoInputs.cache
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.AssemblyInfo.cs
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.csproj.CoreCompileInputs.cache
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.dll
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/refint/jagged_array.dll
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.pdb
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.genruntimeconfig.cache
+/media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/ref/jagged_array.dll
