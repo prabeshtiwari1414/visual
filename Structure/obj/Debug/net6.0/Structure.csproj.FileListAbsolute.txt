@@ -1,0 +1,15 @@
+/media/parbesh/Local Disk/visual/visual-1/Structure/bin/Debug/net6.0/Structure
+/media/parbesh/Local Disk/visual/visual-1/Structure/bin/Debug/net6.0/Structure.deps.json
+/media/parbesh/Local Disk/visual/visual-1/Structure/bin/Debug/net6.0/Structure.runtimeconfig.json
+/media/parbesh/Local Disk/visual/visual-1/Structure/bin/Debug/net6.0/Structure.dll
+/media/parbesh/Local Disk/visual/visual-1/Structure/bin/Debug/net6.0/Structure.pdb
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/Structure.csproj.AssemblyReference.cache
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/Structure.GeneratedMSBuildEditorConfig.editorconfig
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/Structure.AssemblyInfoInputs.cache
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/Structure.AssemblyInfo.cs
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/Structure.csproj.CoreCompileInputs.cache
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/Structure.dll
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/refint/Structure.dll
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/Structure.pdb
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/Structure.genruntimeconfig.cache
+/media/parbesh/Local Disk/visual/visual-1/Structure/obj/Debug/net6.0/ref/Structure.dll
