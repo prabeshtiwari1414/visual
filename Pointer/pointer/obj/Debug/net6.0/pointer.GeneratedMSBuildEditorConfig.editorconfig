@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = forloop
-build_property.ProjectDir = /media/parbesh/Local Disk/visual/visual/forloop/
+build_property.RootNamespace = pointer
+build_property.ProjectDir = /media/parbesh/Local Disk/visual/visual/Pointer/pointer/

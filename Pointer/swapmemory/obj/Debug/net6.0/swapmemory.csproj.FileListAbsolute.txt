@@ -1,0 +1,15 @@
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.csproj.AssemblyReference.cache
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.GeneratedMSBuildEditorConfig.editorconfig
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.AssemblyInfoInputs.cache
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.AssemblyInfo.cs
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.csproj.CoreCompileInputs.cache
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/bin/Debug/net6.0/swapmemory
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/bin/Debug/net6.0/swapmemory.deps.json
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/bin/Debug/net6.0/swapmemory.runtimeconfig.json
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/bin/Debug/net6.0/swapmemory.dll
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/bin/Debug/net6.0/swapmemory.pdb
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.dll
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/refint/swapmemory.dll
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.pdb
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.genruntimeconfig.cache
+/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/ref/swapmemory.dll

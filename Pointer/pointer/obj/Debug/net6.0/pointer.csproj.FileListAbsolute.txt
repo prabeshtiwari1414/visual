@@ -1,0 +1,15 @@
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.csproj.AssemblyReference.cache
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.GeneratedMSBuildEditorConfig.editorconfig
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.AssemblyInfoInputs.cache
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.AssemblyInfo.cs
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.csproj.CoreCompileInputs.cache
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/bin/Debug/net6.0/pointer
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/bin/Debug/net6.0/pointer.deps.json
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/bin/Debug/net6.0/pointer.runtimeconfig.json
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/bin/Debug/net6.0/pointer.dll
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/bin/Debug/net6.0/pointer.pdb
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.dll
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/refint/pointer.dll
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.pdb
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.genruntimeconfig.cache
+/media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/ref/pointer.dll
