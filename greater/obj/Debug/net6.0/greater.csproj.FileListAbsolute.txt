@@ -1,0 +1,15 @@
+/home/parbesh/visual p/visual-2/greater/bin/Debug/net6.0/greater
+/home/parbesh/visual p/visual-2/greater/bin/Debug/net6.0/greater.deps.json
+/home/parbesh/visual p/visual-2/greater/bin/Debug/net6.0/greater.runtimeconfig.json
+/home/parbesh/visual p/visual-2/greater/bin/Debug/net6.0/greater.dll
+/home/parbesh/visual p/visual-2/greater/bin/Debug/net6.0/greater.pdb
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/greater.csproj.AssemblyReference.cache
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/greater.GeneratedMSBuildEditorConfig.editorconfig
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/greater.AssemblyInfoInputs.cache
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/greater.AssemblyInfo.cs
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/greater.csproj.CoreCompileInputs.cache
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/greater.dll
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/refint/greater.dll
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/greater.pdb
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/greater.genruntimeconfig.cache
+/home/parbesh/visual p/visual-2/greater/obj/Debug/net6.0/ref/greater.dll

@@ -5,6 +5,7 @@ namespace Name
     {
        public static void Main(String [] args){
          Console.WriteLine("Quiz is in under development");
+         Console.WriteLine("");
        }
 
     }
