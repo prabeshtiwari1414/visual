@@ -1,0 +1,15 @@
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/quiz.csproj.AssemblyReference.cache
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/quiz.GeneratedMSBuildEditorConfig.editorconfig
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/quiz.AssemblyInfoInputs.cache
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/quiz.AssemblyInfo.cs
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/quiz.csproj.CoreCompileInputs.cache
+/home/parbesh/visual p/visual-2/quiz/bin/Debug/net6.0/quiz
+/home/parbesh/visual p/visual-2/quiz/bin/Debug/net6.0/quiz.deps.json
+/home/parbesh/visual p/visual-2/quiz/bin/Debug/net6.0/quiz.runtimeconfig.json
+/home/parbesh/visual p/visual-2/quiz/bin/Debug/net6.0/quiz.dll
+/home/parbesh/visual p/visual-2/quiz/bin/Debug/net6.0/quiz.pdb
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/quiz.dll
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/refint/quiz.dll
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/quiz.pdb
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/quiz.genruntimeconfig.cache
+/home/parbesh/visual p/visual-2/quiz/obj/Debug/net6.0/ref/quiz.dll
