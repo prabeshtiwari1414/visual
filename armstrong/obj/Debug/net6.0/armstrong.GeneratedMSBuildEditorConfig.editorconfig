@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = palindrome
-build_property.ProjectDir = /home/parbesh/visual p/visual-2/palindrome/
+build_property.RootNamespace = armstrong
+build_property.ProjectDir = /home/parbesh/visual p/visual-2/armstrong/

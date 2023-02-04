@@ -1,0 +1,15 @@
+/home/parbesh/visual p/visual-2/armstrong/bin/Debug/net6.0/armstrong
+/home/parbesh/visual p/visual-2/armstrong/bin/Debug/net6.0/armstrong.deps.json
+/home/parbesh/visual p/visual-2/armstrong/bin/Debug/net6.0/armstrong.runtimeconfig.json
+/home/parbesh/visual p/visual-2/armstrong/bin/Debug/net6.0/armstrong.dll
+/home/parbesh/visual p/visual-2/armstrong/bin/Debug/net6.0/armstrong.pdb
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.csproj.AssemblyReference.cache
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.GeneratedMSBuildEditorConfig.editorconfig
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.AssemblyInfoInputs.cache
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.AssemblyInfo.cs
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.csproj.CoreCompileInputs.cache
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.dll
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/refint/armstrong.dll
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.pdb
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.genruntimeconfig.cache
+/home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/ref/armstrong.dll
