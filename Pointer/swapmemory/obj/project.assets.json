@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/parbesh/.nuget/packages/": {}
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/swapmemory.csproj",
+      "projectUniqueName": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\Pointer\\swapmemory\\swapmemory.csproj",
       "projectName": "swapmemory",
-      "projectPath": "/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/swapmemory.csproj",
-      "packagesPath": "/home/parbesh/.nuget/packages/",
-      "outputPath": "/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/",
+      "projectPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\Pointer\\swapmemory\\swapmemory.csproj",
+      "packagesPath": "C:\\Users\\AOT_DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\Pointer\\swapmemory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/parbesh/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\AOT_DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -54,12 +54,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

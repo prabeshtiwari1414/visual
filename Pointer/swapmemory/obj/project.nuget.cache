@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4uNSbKH0zjpoQ/iPUpLU2B2YK2fS3POCHvyRUL8O86ePO+cohaRj68K5Pm8qXXrdSm0mtDWtPZSZYq3dSqzxhQ==",
+  "dgSpecHash": "wvtR1vZHOBOoKkhi9QcHoSvB2np9kUskBrgkCXX/vBJxGDNMdX7vX2JA0J7TpbLtet5NCvNNG+2dKj9rGVYi1A==",
   "success": true,
-  "projectFilePath": "/media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/swapmemory.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\Pointer\\swapmemory\\swapmemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

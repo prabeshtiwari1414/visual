@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1sT916iHZrAI3QO+MpnGYemZMjT7q56ZNUHSZL4yuixQZRbONSF5BXEp16xq0uYdscP16wF/qGWfRI+aGHNnOw==",
+  "dgSpecHash": "jFkPfZADcAdPbIbrJrDIy1V1Oo7k7eRohVD/2CdgPWzYOYO2gFeDCXUFva9xdSG9EXBAiZGeZCcPWaB5nlsKVQ==",
   "success": true,
-  "projectFilePath": "/home/parbesh/visual p/visual-2/quiz/quiz.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\quiz\\quiz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

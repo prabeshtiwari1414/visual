@@ -13,3 +13,18 @@
 /home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.pdb
 /home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/flag.genruntimeconfig.cache
 /home/parbesh/visual p/visual-1/flag/obj/Debug/net6.0/ref/flag.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\bin\Debug\net6.0\flag.exe
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\bin\Debug\net6.0\flag.deps.json
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\bin\Debug\net6.0\flag.runtimeconfig.json
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\bin\Debug\net6.0\flag.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\bin\Debug\net6.0\flag.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\flag.csproj.AssemblyReference.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\flag.AssemblyInfoInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\flag.AssemblyInfo.cs
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\flag.csproj.CoreCompileInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\flag.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\refint\flag.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\flag.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\flag.genruntimeconfig.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\flag\obj\Debug\net6.0\ref\flag.dll

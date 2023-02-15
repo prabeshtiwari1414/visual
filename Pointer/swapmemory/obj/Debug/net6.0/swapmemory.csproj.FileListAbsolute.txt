@@ -13,3 +13,18 @@
 /media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.pdb
 /media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/swapmemory.genruntimeconfig.cache
 /media/parbesh/Local Disk/visual/visual/Pointer/swapmemory/obj/Debug/net6.0/ref/swapmemory.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\bin\Debug\net6.0\swapmemory.exe
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\bin\Debug\net6.0\swapmemory.deps.json
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\bin\Debug\net6.0\swapmemory.runtimeconfig.json
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\bin\Debug\net6.0\swapmemory.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\bin\Debug\net6.0\swapmemory.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\swapmemory.csproj.AssemblyReference.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\swapmemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\swapmemory.AssemblyInfoInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\swapmemory.AssemblyInfo.cs
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\swapmemory.csproj.CoreCompileInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\swapmemory.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\refint\swapmemory.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\swapmemory.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\swapmemory.genruntimeconfig.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\swapmemory\obj\Debug\net6.0\ref\swapmemory.dll

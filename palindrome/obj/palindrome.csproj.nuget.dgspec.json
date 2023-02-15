@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/parbesh/visual p/visual-1/palindrome/palindrome.csproj": {}
+    "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\palindrome\\palindrome.csproj": {}
   },
   "projects": {
-    "/home/parbesh/visual p/visual-1/palindrome/palindrome.csproj": {
+    "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\palindrome\\palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/parbesh/visual p/visual-1/palindrome/palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\palindrome\\palindrome.csproj",
         "projectName": "palindrome",
-        "projectPath": "/home/parbesh/visual p/visual-1/palindrome/palindrome.csproj",
-        "packagesPath": "/home/parbesh/.nuget/packages/",
-        "outputPath": "/home/parbesh/visual p/visual-1/palindrome/obj/",
+        "projectPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\palindrome\\palindrome.csproj",
+        "packagesPath": "C:\\Users\\AOT_DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/parbesh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\AOT_DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -48,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.14, 6.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

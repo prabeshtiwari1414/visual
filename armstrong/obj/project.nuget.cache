@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lq45YzZjrxH1PEDyQBpgtJjha7J3ICyMeyIUPUxC1d0IpoFx1lWui/KNrWVSnK0BtWGHSdMSlHOelhyczOjW5A==",
+  "dgSpecHash": "GM0ovyCdKrz07MeDwO4lO7M1/MQrJu/hRsloiXhy1MXJ1o26JB11p7j3aHtixWN7bSJ3vfPrfBZcU0eVyFEJDg==",
   "success": true,
-  "projectFilePath": "/home/parbesh/visual p/visual-2/armstrong/armstrong.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\armstrong\\armstrong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

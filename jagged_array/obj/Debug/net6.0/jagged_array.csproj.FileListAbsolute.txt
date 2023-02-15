@@ -13,3 +13,18 @@
 /media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.pdb
 /media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/jagged_array.genruntimeconfig.cache
 /media/parbesh/Local Disk/visual/visual-1/jagged_array/obj/Debug/net6.0/ref/jagged_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\bin\Debug\net6.0\jagged_array.exe
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\bin\Debug\net6.0\jagged_array.deps.json
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\bin\Debug\net6.0\jagged_array.runtimeconfig.json
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\bin\Debug\net6.0\jagged_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\bin\Debug\net6.0\jagged_array.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\jagged_array.csproj.AssemblyReference.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\jagged_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\jagged_array.AssemblyInfoInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\jagged_array.AssemblyInfo.cs
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\jagged_array.csproj.CoreCompileInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\jagged_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\refint\jagged_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\jagged_array.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\jagged_array.genruntimeconfig.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\jagged_array\obj\Debug\net6.0\ref\jagged_array.dll

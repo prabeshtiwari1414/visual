@@ -13,3 +13,18 @@
 /home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.pdb
 /home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/palindrome.genruntimeconfig.cache
 /home/parbesh/visual p/visual-1/palindrome/obj/Debug/net6.0/ref/palindrome.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\bin\Debug\net6.0\palindrome.exe
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\bin\Debug\net6.0\palindrome.deps.json
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\bin\Debug\net6.0\palindrome.runtimeconfig.json
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\bin\Debug\net6.0\palindrome.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\bin\Debug\net6.0\palindrome.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\palindrome.csproj.AssemblyReference.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\palindrome.AssemblyInfoInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\palindrome.AssemblyInfo.cs
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\palindrome.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\refint\palindrome.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\palindrome.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\palindrome.genruntimeconfig.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\palindrome\obj\Debug\net6.0\ref\palindrome.dll

@@ -13,3 +13,18 @@
 /home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.pdb
 /home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/armstrong.genruntimeconfig.cache
 /home/parbesh/visual p/visual-2/armstrong/obj/Debug/net6.0/ref/armstrong.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\bin\Debug\net6.0\armstrong.exe
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\bin\Debug\net6.0\armstrong.deps.json
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\bin\Debug\net6.0\armstrong.runtimeconfig.json
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\bin\Debug\net6.0\armstrong.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\bin\Debug\net6.0\armstrong.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\armstrong.csproj.AssemblyReference.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\armstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\armstrong.AssemblyInfoInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\armstrong.AssemblyInfo.cs
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\armstrong.csproj.CoreCompileInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\armstrong.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\refint\armstrong.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\armstrong.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\armstrong.genruntimeconfig.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\armstrong\obj\Debug\net6.0\ref\armstrong.dll

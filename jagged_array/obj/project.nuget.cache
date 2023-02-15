@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/MR20ezSoGeoA5dDWW3PFYM9V+SkfSvJ4aezIO3m9RoHXFfmVVnAPFaRGmrJj94JehLyhdElVdy0Rv+JHda8A==",
+  "dgSpecHash": "q/koy1c3YYo4U+NMDpcWmAMpzsv9yRF7qFJr54bu+baXNOZjTdQ95jpGTt/wt96M6Glsgv4bFu0vY6jNEOjKEg==",
   "success": true,
-  "projectFilePath": "/media/parbesh/Local Disk/visual/visual-1/jagged_array/jagged_array.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\jagged_array\\jagged_array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

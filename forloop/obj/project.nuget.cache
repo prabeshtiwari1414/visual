@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tMw0TY7+JbcUsgC6q/2+9g7/FTj6YrLO3J9ZnQcuiEuyXZmNU+nzuAT9KbwXDZXV/pKH7U0SuJdZ4Rblbm8fqg==",
+  "dgSpecHash": "lOBZl3tTwwEtyBp6A6NW4s/Oz46qCnv4zTKGkIutW5LTf6lmttWIeFHPsIpF3Tnvj5ILQg9Y79FBoljV6mUkNA==",
   "success": true,
-  "projectFilePath": "/media/parbesh/Local Disk/visual/forloop/forloop.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\forloop\\forloop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

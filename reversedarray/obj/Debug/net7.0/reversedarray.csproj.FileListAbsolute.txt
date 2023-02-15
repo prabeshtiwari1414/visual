@@ -1,0 +1,15 @@
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\reversedarray.csproj.AssemblyReference.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\reversedarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\reversedarray.AssemblyInfoInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\reversedarray.AssemblyInfo.cs
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\reversedarray.csproj.CoreCompileInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\bin\Debug\net7.0\reversedarray.exe
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\bin\Debug\net7.0\reversedarray.deps.json
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\bin\Debug\net7.0\reversedarray.runtimeconfig.json
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\bin\Debug\net7.0\reversedarray.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\bin\Debug\net7.0\reversedarray.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\reversedarray.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\refint\reversedarray.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\reversedarray.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\reversedarray.genruntimeconfig.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\reversedarray\obj\Debug\net7.0\ref\reversedarray.dll

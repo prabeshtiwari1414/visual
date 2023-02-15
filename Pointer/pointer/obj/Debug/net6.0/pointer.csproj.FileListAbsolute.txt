@@ -13,3 +13,18 @@
 /media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.pdb
 /media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/pointer.genruntimeconfig.cache
 /media/parbesh/Local Disk/visual/visual/Pointer/pointer/obj/Debug/net6.0/ref/pointer.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\bin\Debug\net6.0\pointer.exe
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\bin\Debug\net6.0\pointer.deps.json
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\bin\Debug\net6.0\pointer.runtimeconfig.json
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\bin\Debug\net6.0\pointer.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\bin\Debug\net6.0\pointer.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\pointer.csproj.AssemblyReference.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\pointer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\pointer.AssemblyInfoInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\pointer.AssemblyInfo.cs
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\pointer.csproj.CoreCompileInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\pointer.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\refint\pointer.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\pointer.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\pointer.genruntimeconfig.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\Pointer\pointer\obj\Debug\net6.0\ref\pointer.dll

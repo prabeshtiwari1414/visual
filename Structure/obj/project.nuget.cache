@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8eY6YzmGNmFFIz+27MirIlTXeeIlJJrkz19pchcaZ/Fe1Q8aEkG4CT7EFnn74f8vfD+mHNmVNnbtMgAb67JlHg==",
+  "dgSpecHash": "gz+xnf1qCzesLh0eNr2sxGYLG4GoDV7UEud00wSnZBN5CrXDZdNlsR2HGsuzj/yROMBS+j3LlYIXzTdNDxL64Q==",
   "success": true,
-  "projectFilePath": "/media/parbesh/Local Disk/visual/visual-1/Structure/Structure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\Structure\\Structure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
