@@ -1,0 +1,15 @@
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\bin\Debug\net7.0\multidimensional_array.exe
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\bin\Debug\net7.0\multidimensional_array.deps.json
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\bin\Debug\net7.0\multidimensional_array.runtimeconfig.json
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\bin\Debug\net7.0\multidimensional_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\bin\Debug\net7.0\multidimensional_array.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\multidimensional_array.csproj.AssemblyReference.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\multidimensional_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\multidimensional_array.AssemblyInfoInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\multidimensional_array.AssemblyInfo.cs
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\multidimensional_array.csproj.CoreCompileInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\multidimensional_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\refint\multidimensional_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\multidimensional_array.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\multidimensional_array.genruntimeconfig.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\multidimensional_array\obj\Debug\net7.0\ref\multidimensional_array.dll
