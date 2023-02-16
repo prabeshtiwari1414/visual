@@ -1,0 +1,15 @@
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\bin\Debug\net7.0\singledimesional_array.exe
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\bin\Debug\net7.0\singledimesional_array.deps.json
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\bin\Debug\net7.0\singledimesional_array.runtimeconfig.json
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\bin\Debug\net7.0\singledimesional_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\bin\Debug\net7.0\singledimesional_array.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\singledimesional_array.csproj.AssemblyReference.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\singledimesional_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\singledimesional_array.AssemblyInfoInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\singledimesional_array.AssemblyInfo.cs
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\singledimesional_array.csproj.CoreCompileInputs.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\singledimesional_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\refint\singledimesional_array.dll
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\singledimesional_array.pdb
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\singledimesional_array.genruntimeconfig.cache
+C:\Users\AOT_DELL\.vscode\visual\visual\singledimesional_array\obj\Debug\net7.0\ref\singledimesional_array.dll

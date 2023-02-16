@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "singledimesional_array/1.0.0": {
+        "runtime": {
+          "singledimesional_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "singledimesional_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
