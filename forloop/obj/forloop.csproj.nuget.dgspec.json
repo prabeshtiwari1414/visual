@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\forloop\\forloop.csproj": {}
+    "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\forloop\\forloop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\forloop\\forloop.csproj": {
+    "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\forloop\\forloop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\forloop\\forloop.csproj",
+        "projectUniqueName": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\forloop\\forloop.csproj",
         "projectName": "forloop",
-        "projectPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\forloop\\forloop.csproj",
+        "projectPath": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\forloop\\forloop.csproj",
         "packagesPath": "C:\\Users\\AOT_DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\forloop\\obj\\",
+        "outputPath": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\forloop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AOT_DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
