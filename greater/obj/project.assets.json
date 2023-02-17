@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\greater\\greater.csproj",
+      "projectUniqueName": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\greater\\greater.csproj",
       "projectName": "greater",
-      "projectPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\greater\\greater.csproj",
+      "projectPath": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\greater\\greater.csproj",
       "packagesPath": "C:\\Users\\AOT_DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\greater\\obj\\",
+      "outputPath": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\greater\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AOT_DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
