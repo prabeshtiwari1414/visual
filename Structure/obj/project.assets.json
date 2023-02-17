@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\Structure\\Structure.csproj",
+      "projectUniqueName": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\Structure\\Structure.csproj",
       "projectName": "Structure",
-      "projectPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\Structure\\Structure.csproj",
+      "projectPath": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\Structure\\Structure.csproj",
       "packagesPath": "C:\\Users\\AOT_DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\Structure\\obj\\",
+      "outputPath": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\Structure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AOT_DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

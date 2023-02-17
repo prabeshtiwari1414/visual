@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gz+xnf1qCzesLh0eNr2sxGYLG4GoDV7UEud00wSnZBN5CrXDZdNlsR2HGsuzj/yROMBS+j3LlYIXzTdNDxL64Q==",
+  "dgSpecHash": "oeGv1QhTi1nWUIWUlCIMZ26xDnnMSVqMtV7nyoFMVPNzm16Da1CRDZ1UHopf7dP38LMRFyHs19jNlGl+4xZukw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\Structure\\Structure.csproj",
+  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\Structure\\Structure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
     "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
