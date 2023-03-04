@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jFkPfZADcAdPbIbrJrDIy1V1Oo7k7eRohVD/2CdgPWzYOYO2gFeDCXUFva9xdSG9EXBAiZGeZCcPWaB5nlsKVQ==",
+  "dgSpecHash": "za2spMPHUTmt1H7m66Px2zfxREtT12YV6guVLB+ZLb0gJYwb2bThQF/P7bl/IKR98ACA6BTC2jMM9Ji8Ub7bgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual\\visual\\quiz\\quiz.csproj",
+  "projectFilePath": "C:\\Users\\AOT_DELL\\.vscode\\visual-1\\quiz\\quiz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
     "C:\\Users\\AOT_DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
